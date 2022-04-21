@@ -1,0 +1,23 @@
+{
+  "name": "eureka",
+  "version": "1.0.0",
+  "description": "mern application",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon backend/server.js"
+  },
+  "author": "yugesh anand",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    
+    "express": "^4.17.3",
+    
+    "mongoose": "^6.2.8",
+    "nodemailer": "^6.7.3",
+    "react": "^17.0.0",
+    "react-alert": "^7.0.3",
+    "react-alert-template-basic": "^1.0.2",
+    "react-dom": "^17.0.0"
+  }
+}
